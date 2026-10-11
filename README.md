@@ -65,20 +65,8 @@ Iterasi dihentikan ketika perubahan nilai maksimum antaritersi lebih kecil darip
    pip install matplotlib notebook
    ```
 
-4. Jalankan Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
 5. Buka salah satu file eksperimen (`VI.ipynb`, `VI_EKS2.ipynb`, atau `VI_EKS3.ipynb`) dan jalankan sel secara berurutan.
 
 ## Hasil Eksperimen
 
 Hasil eksperimen mencakup nilai optimal setiap state, kebijakan optimal, jumlah iterasi hingga konvergensi, serta visualisasi perubahan nilai state jika tersedia pada notebook.
-
-## Penulis
-
-**Amirul Mukmin**
-
-Repository ini dibuat untuk keperluan pembelajaran dan implementasi algoritma kecerdasan buatan, khususnya Value Iteration pada MDP.
